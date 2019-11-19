@@ -10,20 +10,29 @@ Open Banking is a way of using technology to give customers, and third-parties _
 
 №1 machine-readable access to that customer's financial data, and
 
-№2 the ability for machines to perform financial transactions on the customer's behalf.
+№2 the ability for (third-party) machines to perform financial transactions on the customer's behalf.
 
 Open Banking sets up the banking industry to **benefit from** the “creative destruction” & innovation of FinTech startups & Tech companies, rather than competing with them in a zero-sum competition.
 
-Open Banking gives customers a way to stay with their existing bank, while at the same time being able to benefit from the the innovations in software, technology, and AI coming from FinTech startups & Tech companies.
+Open Banking gives customers a way to stay with their existing bank, while at the same time being able to benefit from the innovations in software, technology, and AI coming from FinTech startups & Tech companies.
 
 Open Banking sets the banking industry up for success as it is faced with technological modernization, by strategically placing the banking industry as the core infrastructure backing FinTech startups & Tech companies.
 I.e., with Open Banking, when FinTech startups & Tech companies win the banking industry also wins.
 
 ## What Is Open Banking? — For Product Owners
 
+Open Banking is a technological way for banks to enable other people, and other organizations to create apps that integrate with a bank.
+
+These _other people_, and _other organizations_ — third parties — includes:
+* software developers,
+* tech entrepreneurs,
+* enterprises,
+* 2 college kids trying to create a Fintech startup (that later becomes a Tech giant),
+* etc.
+
 ## What Is Open Banking? — For Software Developers
 
-The TL;DR version is: Open Banking is a set of specific APIs.
+The TL;DR version is: Open Banking is a set of _specific_ APIs.
 
 And hopefully HTTPS-based APIs. But also where cryptographic signatures are used to try to keep things safe & secure.
 
