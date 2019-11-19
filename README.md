@@ -23,4 +23,6 @@ This book was written by a Computer Scientist.
 
 This book was written by a Software Engineer.
 
+This book was written by someone who has the necessary background to be able to write Best Practices for Open Banking.
+
 This book was written by someone who cares about Open Banking.
