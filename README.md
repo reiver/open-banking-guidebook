@@ -15,7 +15,7 @@ And gives them a [checklist](manuscript/open-banking-checklist.md) of what they 
 
 This book was written by the former Chief Technology Officer (CTO) of a popular “neobank” in Canada.
 
-This book was written by someone who wrote a Core Banking system from scratch by himself.
+This book was written by someone who created & literally wrote a Core Banking system from scratch.
 
 This book was written by someone with ¼ of a century experience as a Technologist.
 
