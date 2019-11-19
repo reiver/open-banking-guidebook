@@ -17,3 +17,24 @@ Open Banking sets up the banking industry to **benefit from** the “creative de
 ## What Is Open Banking? — For Product Owners
 
 ## What Is Open Banking? — For Software Developers
+
+The TL;DR version is: Open Banking is APIs.
+
+And hopefully HTTPS-based APIs. But also where cryptographic signatures are used to try to keep things safe & secure.
+
+Most of the API are _request-response_ style that is common with REST based APIs.
+
+For example:
+* create account,
+* list transactions,
+* move money,
+* etc.
+
+But also includes some _publish-subscribe_ style APIs.
+
+For example:
+* money debited,
+* money credited,
+* etc.
+
+And all the other usual stuff most Tech companies have when they expose APIs to the public.
