@@ -12,13 +12,18 @@ Open Banking is a way of using technology to give customers, and third-parties _
 
 №2 the ability for machines to perform financial transactions on the customer's behalf.
 
-Open Banking sets up the banking industry to **benefit from** the “creative destruction” & innovation of FinTech startups & companies, rather than competing with them in a zero-sum situation.
+Open Banking sets up the banking industry to **benefit from** the “creative destruction” & innovation of FinTech startups & Tech companies, rather than competing with them in a zero-sum competition.
+
+Open Banking gives customers a way to stay with their existing bank, while at the same time being able to benefit from the the innovations in software, technology, and AI coming from FinTech startups & Tech companies.
+
+Open Banking sets the banking industry up for success as it is faced with technological modernization, by strategically placing the banking industry as the core infrastructure backing FinTech startups & Tech companies.
+I.e., with Open Banking, when FinTech startups & Tech companies win the banking industry also wins.
 
 ## What Is Open Banking? — For Product Owners
 
 ## What Is Open Banking? — For Software Developers
 
-The TL;DR version is: Open Banking is APIs.
+The TL;DR version is: Open Banking is a set of specific APIs.
 
 And hopefully HTTPS-based APIs. But also where cryptographic signatures are used to try to keep things safe & secure.
 
