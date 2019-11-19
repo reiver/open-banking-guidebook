@@ -7,7 +7,7 @@ This is the **Open Banking Guidebook**.
 It is written for those looking to bring **open banking** to their
 **bank**, **trust**, **credit union**, **money service business** (**MSB**), **FinTech** company, or any other finance related organization.
 
-It gives them the answers to the Who, What, When, Where, Why, and How of Open Banking.
+It gives them the answers to the Who, [What](manuscript/what-is-open-banking.md), When, Where, Why, and How of Open Banking.
 
 And gives them a [checklist](manuscript/open-banking-checklist.md) of what they need to bring **Open Banking** to their organization.
 
