@@ -9,7 +9,7 @@ It is written for those looking to bring **open banking** to their
 
 It gives them the answers to the Who, What, When, Where, Why, and How of Open Banking.
 
-And gives them a **checklist** of what they need to bring **Open Banking** to their organization.
+And gives them a [checklist](manuscript/open-banking-checklist.md) of what they need to bring **Open Banking** to their organization.
 
 ## Who Wrote This
 
